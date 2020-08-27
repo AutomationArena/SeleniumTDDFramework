@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="YouTube Test Automation Suite">
+
+  <test name="YouTube- Demo Project">
+      <classes>
+      	<class name="com.demoproject.qa.testcases.HomePageTest"></class>
+      	
+      </classes>
+  </test> <!-- Test --> 
+   
+
+  
+</suite> <!-- Suite -->
+
+<!-- Need to add  3 plugins : compiler , surefire and resource plugin .-->

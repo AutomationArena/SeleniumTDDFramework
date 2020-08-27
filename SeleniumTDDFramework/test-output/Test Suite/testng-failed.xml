@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test name="Example Test By class(failed)">
+    <classes>
+      <class name="com.demoproject.qa.testcases.LibraryPageTest">
+        <methods>
+          <include name="libraryPageTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.LibraryPageTest -->
+      <class name="com.demoproject.qa.testcases.HistoryPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="historyPageTest"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.HistoryPageTest -->
+      <class name="com.demoproject.qa.testcases.SignInTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.SignInTest -->
+      <class name="com.demoproject.qa.testcases.SubscriptionPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="subscriptionPageTest"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.SubscriptionPageTest -->
+      <class name="com.demoproject.qa.testcases.TrendingPageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.TrendingPageTest -->
+      <class name="com.demoproject.qa.testcases.HomePageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.demoproject.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Example Test By class(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

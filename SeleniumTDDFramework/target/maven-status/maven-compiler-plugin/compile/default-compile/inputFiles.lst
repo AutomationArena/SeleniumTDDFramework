@@ -1,0 +1,15 @@
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/realtask/MainRunner.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/ContactsPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/realtask/Runner.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/HomePage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/CRMHomePage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/TasksPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/realtask/TaskBase.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/util/TestUtil.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/SignUpPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/CompaniesPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/LoginPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/pages/DealsPage.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/base/TestBase.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/ExtentReport/ExtentReportListener.java
+/home/globallogic/eclipse-workspace/SeleniumTDDFramework/src/main/java/com/demoproject/qa/util/WebEventListener.java

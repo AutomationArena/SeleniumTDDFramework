@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Suite">
+
+  <!--   listens the activity below -->
+  <listeners><listener class-name="com.demoproject.qa.ExtentReport.ExtentReportListener"></listener></listeners>	
+
+  <test name="Example Test By package">
+      <packages>
+      	<package name= "com.qa.test.*"></package>	
+      </packages>
+
+  </test> <!-- Test --> 
+   
+  <test name="Example Test By class">
+      <classes>
+      	<class name="com.demoproject.qa.testcases.HomePageTest"></class>
+      	
+      	
+      </classes>
+  </test> <!-- Test --> 
+   
+  
+</suite> <!-- Suite -->
+
+
+

@@ -1,0 +1,1 @@
+[SuiteResult context=Example Test By package][SuiteResult context=Example Test By class]
